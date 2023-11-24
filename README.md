@@ -1,5 +1,9 @@
-### Hi there 👋
-### My name is Tsiden
+### Hello world 👋
+<p align="center"><img src="https://media.tenor.com/rv20dFusX-QAAAAC/love.gif" width="100"/></p>
+<p align="center"><b> ABOUT ME </b></p>
+<b>My name is Tsiden</b>
+<p><b> I'm studying to be a neural network developer </b></p>
+
 <!--
 **Ezoter1ka/Ezoter1ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
