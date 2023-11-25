@@ -8,6 +8,7 @@
 <p align="center"><img src="https://vsthemes.org/uploads/posts/2019-11/1572990550_screenshot_1.webp" width="1050"height="500 /></p>
                    
 ---
+
 ### <p align="center">:man_technologist: ABOUT ME:
 
 <p><b> I am a beginner neural network developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Currently I work as an information technology specialist in  Kyakhta town. I have a secondary specialized education in the specialty - Organization and technology for information security. I am currently pursuing a higher education degree in artificial intelligence technology. On November 24, 2023 I’ll start studying courses on developing neural networks, I hope everything will work out for me :)</b></p>
