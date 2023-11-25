@@ -1,8 +1,8 @@
-### <p align="center"> Hello world ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+### <p align="center">      Hello world ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ### <p align="center"> My name is Tsyden !
 ---
-<p align="center"><img src="https://media.tenor.com/rv20dFusX-QAAAAC/love.gif" width="200"/></p>
+<p align="center"><img src="https://vsthemes.org/uploads/posts/2019-11/1572990550_screenshot_1.webp" width="1050"height="500 /></p>
 
 ### :man_technologist: ABOUT ME:
 
