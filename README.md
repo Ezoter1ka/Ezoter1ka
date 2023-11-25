@@ -9,7 +9,7 @@
                    
 ---
 
-### <p align="center">:man_technologist: ABOUT ME:
+### <b><p align="center">:man_technologist: ABOUT ME: </b>
 
 <p><b> I am a beginner neural network developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Currently I work as an information technology specialist in  Kyakhta town. I have a secondary specialized education in the specialty - Organization and technology for information security. I am currently pursuing a higher education degree in artificial intelligence technology. On November 24, 2023 I’ll start studying courses on developing neural networks, I hope everything will work out for me :)</b></p>
 
