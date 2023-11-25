@@ -1,6 +1,7 @@
-### <p align="center">      Hello world ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-### <p align="center"> My name is Tsyden !
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Tsyden</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Student of the neural networks course, IT specialist from Russia </h3>
 
 ---
 
